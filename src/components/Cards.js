@@ -5,41 +5,46 @@ import CardItem from './CardItem';
 function Cards() {
   return (
     <div className='cards'>
-      <h1>Check out these EPIC Destinations!</h1>
+      <h1>Check out some of my favorite projects and things to do!</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-9.jpg'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
-              path='/services'
+              src='images/certificateTN.png'
+              alt='my MIT certificate in coding'
+              text='My Professional Certificate in Coding that I received in October 2022.'
+              label='My Certificate'
+              path='/certificate'
             />
             <CardItem
-              src='images/img-2.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
-              path='/services'
+              src='images/hobbies/logo.jpg'
+              alt='this is the logo for the next website that i want to build'
+              text='Creating a website for my homestead will become my next coding project.'
+              label='Coding'
+              path='/aboutMe'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-3.jpg'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
-              path='/services'
+              src='images/hobbies/fish.jpg'
+              alt='9.48 pound carp'
+              text='This 9.48 pound carp was caught on the French Broad River in Tennessee.'
+              label='Fishing'
+              path='/aboutMe'
             />
             <CardItem
-              src='images/img-4.jpg'
-              text='Experience Football on Top of the Himilayan Mountains'
-              label='Adventure'
-              path='/products'
+              src='images/projects/eyes.png'
+              alt='eyes that follow your mouse on screen'
+              text='One of my first projects. The eyes follow the movements of your mouse.'
+              label='A fun project'
+              path='/projects'
             />
             <CardItem
-              src='images/img-8.jpg'
-              text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
-              path='/sign-up'
+              src='images/projects/map.png'
+              alt='app that updates every 15 seconds and shows the location of the buses'
+              text='This map updates every 15 seconds to show busses on a particular route.'
+              label='Real time mapping'
+              path='/projects'
             />
           </ul>
         </div>
