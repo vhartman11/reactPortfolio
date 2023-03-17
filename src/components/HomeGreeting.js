@@ -1,6 +1,5 @@
 import React from 'react';
 import '../App.css';
-//import { Button } from './Button';
 import './HomeGreeting.css';
 
 function HomeGreeting() {
@@ -10,21 +9,7 @@ function HomeGreeting() {
       <h1>MY PORTFOLIO</h1>
       <p>Explore this site to learn more about me.</p>
       <div className='greeting-btns'>
-        {/*<Button
-          className='btns'
-          buttonStyle='btn--outline'
-          buttonSize='btn--large'
-        >
-          GET STARTED
-        </Button>
-        <Button
-          className='btns'
-          buttonStyle='btn--primary'
-          buttonSize='btn--large'
-          onClick={console.log('hey')}
-        >
-          WATCH YOUTUBE <i className='far fa-play-circle' />
-        </Button>*/}
+        {/* see: https://github.com/briancodex/react-website-v1/blob/master/src/components/HeroSection.js to add video and links */}
       </div>
     </div>
   );
