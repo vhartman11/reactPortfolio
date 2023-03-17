@@ -20,7 +20,7 @@ function AboutMeCards() {
             <AboutMeCardItem
               src='images/hobbies/fish.jpg'
               alt='9.48 pound carp'
-              text='I enjoy fishing for all species of fish but usually I target bass, trout, and catfish.  In the cover photo I am holding a carp that weighed in at 9.48 pounds that was caught on the French Broad River in Tennessee on a family vacation.  This is the largest fish I have caught.'
+              text='I enjoy fishing for all species of fish but usually target bass, trout, and catfish.  In this photo, I am holding a 9.48 pound carp that was caught on the French Broad River in Tennessee on a family vacation.  This is the largest fish I have caught.'
               label='Fishing'
               path='#'
             />
@@ -30,14 +30,14 @@ function AboutMeCards() {
             <AboutMeCardItem
               src='images/hobbies/carpentry.jpg'
               alt='a complete bee hive that I built'
-              text='I have a small work shop in my basement and I have built or fixed many things there.  I have fixed a large sign for a sales booth at the Philadelphia Flower Show to our own kitchen table chairs.  I built the beehive in this picture as well as several others and other components needed to have a sucessful apairy.'
+              text='I have a small workshop in my basement where I have built or fixed many things such as repairing a large sign for a sales booth at the Philadelphia Flower Show.  I built the beehive in this picture as well as several others and the components needed to have a sucessful apiary.'
               label='Wood Working'
               path='#'
             />
             <AboutMeCardItem
               src='images/hobbies/homestead.jpg'
               alt='a young black australorp chicken'
-              text='One of my personal goals is to become self suffient as possible.  To help acheive this goal we added a small flock of chickens and started a small apairy.  I collect tap my maple trees in the winter to collect sap and boil it down to deliouse maple syrup.  I also have a large garden, many berry plants, an assortment of fruiting trees, and grape vines.'
+              text='One of my personal goals is to become as self-sufficient as possible.  To help achieve this goal, we raised a small flock of chickens and started a small apiary.  In the winter, I tap my maple trees to collect sap and boil it down to delicious maple syrup.  I also have a large garden, many berry plants, an assortment of fruiting trees, and grape vines.'
               label='Homesteading'
               path='#'
             />

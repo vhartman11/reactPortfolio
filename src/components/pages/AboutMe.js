@@ -18,7 +18,7 @@ function AboutMe() {
           <br />
           <p>You can also see a little of my story on how I found coding and why I chose to pursue a web development career.</p>
           <br />
-          <p>Farther down this page you will also get to see some of my favorite things to do.</p>
+          <p>Further down this page you will also get to see some of my favorite things to do.</p>
           <br />
           <p>Enjoy!</p>
         </section>
@@ -44,7 +44,7 @@ function AboutMe() {
             I really enjoy the fact that potentially thousands of people may end up using something that I helped to build.
           </p>
           <br /><br />
-          <p>What I have enjoyed most about web development?</p>
+          <p>What have I enjoyed most about web development?</p>
           <br />
           <p>
             I ended up choosing a full stack program because after the free online crash courses it all seemed so fasicinating and I wanted to learn more.  

@@ -42,7 +42,7 @@ function Cards() {
             <CardItem
               src='images/projects/map.png'
               alt='app that updates every 15 seconds and shows the location of the buses'
-              text='This map updates every 15 seconds to show busses on a particular route.'
+              text='This map updates every 15 seconds to show buses on a particular route.'
               label='Real time mapping'
               path='/projects'
             />
