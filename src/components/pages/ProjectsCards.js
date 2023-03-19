@@ -1,6 +1,6 @@
-import React from 'react';
-import './ProjectsCards.css';
+import React            from 'react';
 import ProjectsCardItem from './ProjectsCardItem';
+import './ProjectsCards.css';
 
 function ProjectsCards() {
   return (

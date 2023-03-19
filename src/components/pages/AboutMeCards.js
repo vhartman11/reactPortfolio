@@ -1,6 +1,6 @@
-import React from 'react';
-import './AboutMeCards.css';
+import React           from 'react';
 import AboutMeCardItem from './AboutMeCardItem';
+import './AboutMeCards.css';
 
 function AboutMeCards() {
   return (

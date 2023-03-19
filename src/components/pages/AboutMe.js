@@ -1,7 +1,7 @@
-import React from 'react';
+import React        from 'react';
+import AboutMeCards from './AboutMeCards';
 import '../../App.css';
 import './AboutMe.css';
-import AboutMeCards from './AboutMeCards';
 
 function AboutMe() {
   return (
