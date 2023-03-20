@@ -13,8 +13,8 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  margin-bottom: 24px;
-  padding: 24px;
+  margin-bottom: 20px;
+  padding: 20px;
   color: #fff;
 }
   
@@ -62,7 +62,7 @@
 /* Social Icons */
 .social-icon-link {
   color: #fff;
-  font-size: 24px;
+  font-size: 40px;
 }
   
 .social-media {
