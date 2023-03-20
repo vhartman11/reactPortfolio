@@ -6,13 +6,10 @@ import './HomeGreeting.css';
 function HomeGreeting() {
   return (
     <div className='greeting-container'>
-      <div className='overlay'></div>
-      <video src={BackgroundVideo} autoPlay loop muted />
-      <div className='content'>
+      <video src={BackgroundVideo} autoPlay loop muted class='video=bg'/>
         <h1>MY PORTFOLIO</h1>
         <p>Explore this site to learn more about me.</p>
         {/* see: https://github.com/briancodex/react-website-v1/blob/master/src/components/HeroSection.js to add video and links */}
-      </div>
     </div>
   );
 };
