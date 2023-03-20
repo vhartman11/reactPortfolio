@@ -1,13 +1,13 @@
-import React  from 'react';
-import Navbar from './components/Navbar';
-import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
-import './App.css';
+import React       from 'react';
+import Navbar      from './components/Navbar';
 import Home        from './components/pages/Home';
 import AboutMe     from './components/pages/AboutMe';
 import Projects    from './components/pages/Projects';
 import Certificate from './components/pages/Certificate';
 import Footer      from './components/Footer';
 import ScrollToTop from './components/ScrollToTop';
+import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import './App.css';
 
 function App() {
   return (

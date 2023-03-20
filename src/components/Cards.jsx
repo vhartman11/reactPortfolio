@@ -13,7 +13,7 @@ function Cards() {
           <ul className='cards__items'>
             
             <CardItem
-              src='images/certificateTN.png'
+              src='images/MITcertificate.png'
               alt='my MIT certificate in coding'
               text='My Professional Certificate in Coding that I received in October 2022.'
               label='My Certificate'

@@ -2,7 +2,6 @@ import React         from 'react';
 import ProjectsCards from './ProjectsCards';
 import '../../App.css';
 
-
 export default function Projects() {
   return (
   <>
