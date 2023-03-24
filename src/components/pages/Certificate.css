@@ -1,4 +1,6 @@
 .cert {
   max-width: 100%;
   height: auto;
+  position: center;
+  display: flex;
 }
